@@ -1,0 +1,16 @@
+Training Project Plan SchedulerWeb Project
+1. Configure Environment. (100%)
+2. UI Implement.	
+	. Login Page. (100%)	
+	. Add User Page. (100%)	
+	. Edit User Page. (50%)	
+	. User List Page. (100%)
+3. Function.	
+	. Login logic. (50%)	
+	. Add user logic. (100%)	
+	. Show all users. (100%)	
+	. Edit user logic. (30%)	
+	. Remove user logic. (100%)	
+	. Search user logic. (0%)
+4. Others.	
+	. Only login user can access system. (0%)
